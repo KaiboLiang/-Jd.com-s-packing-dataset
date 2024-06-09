@@ -47,9 +47,13 @@ Usage:
 This dataset is used to provide the dimensions and flexibility of each SKU. This information is crucial for determining how items can be packed efficiently, especially considering their deformability.
 
 How to Use These Datasets
+
 Import the datasets: Load the CSV files into your data processing environment (e.g., Python, R).
+
 Integrate data: Combine the datasets based on the SKU Code to create a comprehensive view of orders and their packing requirements.
+
 Optimize packing: Use optimization algorithms to determine the most efficient way to pack the items in each order using the available packaging materials, considering dimensions and deformability.
+
 Implement solutions: Apply the optimized packing solutions in your warehouse or logistics operations to improve efficiency and reduce costs.
 
 For further questions or support, please contact us: liangkaibo2955@gmail.com
