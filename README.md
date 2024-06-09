@@ -11,6 +11,7 @@ pack_data.csv
 sku_data.csv
 
 1. order_data.csv
+   
 This file contains information about the orders including the SKU codes and quantities ordered.
 Parameters:
 Serial Number: A unique identifier for each entry.
@@ -21,6 +22,7 @@ Usage:
 This dataset is used to determine the items that need to be packed and the quantity of each item in an order. This helps in mapping the items to be packed into suitable packaging materials.
 
 2. pack_data.csv
+   
 This file provides details about different packaging materials available for use.
 Parameters:
 Consumable Name: The name and description of the packaging material.
@@ -32,6 +34,7 @@ Usage:
 This dataset helps in identifying the dimensions and types of packaging materials available, which is essential for matching the ordered items to the appropriate packaging.
 
 3. sku_data.csv
+   
 This file contains the dimensional and deformability information for the SKUs.
 Parameters:
 Serial Number: A unique identifier for each entry.
